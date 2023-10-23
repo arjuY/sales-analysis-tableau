@@ -12,6 +12,6 @@ The data source is a relational database of a harware company. It contains follo
 # Final Dashboards
 Using the power of SQL and Tableau the following dashboards were created:
 1) Sales and Revenue Analysis: This dashboard gives valueble insights about the sales and revenue with respect to markets and customers and identifies top customers and products based on the yearly and monthly filters. 
-<img src="assests/sales_revenue_dashboard.png" width=70% height=70%>
+<img src="assets/sales_revenue_dashboard.png" width=70% height=70%>
 2) Sales and Revenue Analysis: This dashboard gives valueble insights about profit and revenue with respect to markets, customers and cutomer types.
-<img src="assests/profit_analysis_dashboard.png" width=70% height=70%>
+<img src="assets/profit_analysis_dashboard.png" width=70% height=70%>

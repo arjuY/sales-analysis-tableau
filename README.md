@@ -1,5 +1,5 @@
 # Sales Analysis using Tableau
-The Sales Data Analysis project is a data-driven exploration and analysis of sales and revenue data to extract valuable insights, patterns, and trends. In today's data-driven business landscape, understanding sales and revenue performance is crucial for making informed decisions, optimizing strategies, and achieving sustainable growth. This project focuses on leveraging data analytics and visualization techniques using MYSQL and Tableau to provide actionable recommendations based on historical sales and revenue data.
+The Sales Data Analysis project is a data-driven exploration and analysis of sales and revenue data to extract valuable insights, patterns, and trends. In today's data-driven business landscape, understanding sales and revenue performance is crucial for making informed decisions, optimizing strategies, and achieving sustainable growth. This project focuses on leveraging data analytics and visualization techniques using MYSQL and Tableau to create interactive dashboards to demonstrate the insights effectively to the stakeholders.
 
 # Data Source
 The data source is a relational database of a harware company. It contains following tables:

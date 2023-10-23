@@ -3,11 +3,11 @@ The Sales Data Analysis project is a data-driven exploration and analysis of sal
 
 # Data Source
 The data source is a relational database of a harware company. It contains following tables:
-* Customers
-* Date
-* Markets
-* Products
-* Transactions
+1. Customers
+2. Date
+3. Markets
+4. Products
+5. Transactions
 
 # Final Dashboards
 Using the power of SQL and Tableau the following dashboards were created:
